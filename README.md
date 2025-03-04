@@ -1,6 +1,6 @@
 # 🔒 CyberShield – Advanced Cybersecurity Web Application
 
-**CyberShield** is a comprehensive cybersecurity toolkit designed to enhance digital security through **password analysis, phishing detection, Keystroke Dynamic Authentication, packet sniffing, steganography and an AI-powered Web Application Firewall (WAF)**. It helps users detect threats, strengthen passwords, and secure sensitive information.
+**CyberShield** is a comprehensive Machine Learning Based cybersecurity toolkit designed to enhance digital security through **password analysis, phishing detection, Keystroke Dynamic Authentication, packet sniffing, steganography and an AI-powered Web Application Firewall (WAF)**. It helps users detect threats, strengthen passwords, and secure sensitive information.
 
 ## 🚀 Features
 
