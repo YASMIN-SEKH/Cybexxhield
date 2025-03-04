@@ -1,8 +1,31 @@
-# React + Vite
+# 🔒 CyberShield – Advanced Cybersecurity Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**CyberShield** is a comprehensive cybersecurity toolkit designed to enhance digital security through **password analysis, phishing detection, packet sniffing, steganography, AI-driven malware classification, secure file sharing, and an AI-powered Web Application Firewall (WAF)**. It helps users detect threats, strengthen passwords, and secure sensitive information.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **🔑 Password Strength Checker** – Evaluates password security.
+- **🌐 Phishing URL Detection** – Identifies malicious websites.
+- **📡 Packet Sniffing** – Monitors network traffic.
+- **🖼️ Steganography** – Hides and extracts hidden messages in images.
+- **🤖 AI-Based Malware Classification** – Detects potential threats.
+- **⌨️ Keystroke Dynamics Authentication** – Behavioral authentication system.
+- **📁 Secure File Sharing** – Encrypts and transfers files safely.
+- **🛡️ AI-Powered Web Application Firewall (WAF)** – Protects against web attacks.
+
+## 🛠 Tech Stack
+
+| Component | Technology |
+|-----------|-----------|
+| **Frontend** | React.js, Tailwind CSS |
+| **Backend** | Flask, Python |
+| **Database** | PostgreSQL |
+| **Security Libraries** | OpenCV, Scikit-learn, Cryptography, PyShark |
+| **Deployment** | Docker, AWS/GCP |
+
+## 📦 Installation Guide
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/YASMIN-SEKH/CyberShield.git
+cd CyberShield
