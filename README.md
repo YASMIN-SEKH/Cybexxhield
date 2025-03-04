@@ -8,9 +8,7 @@
 - **🌐 Phishing URL Detection** – Identifies malicious websites.
 - **📡 Packet Sniffing** – Monitors network traffic.
 - **🖼️ Steganography** – Hides and extracts hidden messages in images.
-- **🤖 AI-Based Malware Classification** – Detects potential threats.
 - **⌨️ Keystroke Dynamics Authentication** – Behavioral authentication system.
-- **📁 Secure File Sharing** – Encrypts and transfers files safely.
 - **🛡️ AI-Powered Web Application Firewall (WAF)** – Protects against web attacks.
 
 ## 🛠 Tech Stack
