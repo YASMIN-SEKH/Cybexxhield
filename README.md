@@ -60,10 +60,10 @@ npm start
 **screenshots**
 ![Image 1](1.jpg)
 ![Image 2](2.jpg)
-![Image 2](2.jpg)
-![Image 2](2.jpg)
-![Image 2](2.jpg)
-![Image 2](2.jpg)
-![Image 2](2.jpg)
-![Image 2](2.jpg)
-![Image 2](2.jpg)
+![Image 9](9.jpg)
+![Image 4](4.jpg)
+![Image 5](5.jpg)
+![Image 6](6.jpg)
+![Image 7](7.jpg)
+![Image 8](8.jpg)
+
